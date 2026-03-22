@@ -3,6 +3,7 @@
 
 Features:
 
+- 81x Diodes
 - 81x keys
 - Raspberry Pi Pico
 - Customised layout
