@@ -1,6 +1,7 @@
 # Bitforge
 
-<img src="https://github.com/user-attachments/assets/3bf2c0c6-abaa-4901-8dbe-6162fc2f61e1">
+<img width="5712" height="3213" alt="IMG_4845" src="https://github.com/user-attachments/assets/5c916079-57d1-45ba-962a-5d197350c80a" />
+
 Online view:
 <img src="https://cdn.hackclub.com/019d15e9-f777-7d7b-a066-2e91e74576d0/Screenshot%202026-03-22%20at%207.42.44%E2%80%AFPM.png">
 
